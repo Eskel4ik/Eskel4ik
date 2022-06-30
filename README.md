@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oleg Tabachnikow</h1>
-<h3 align="center">A passionate frontend developer from Israel, Tel Aviv</h3>
+<h1 align="center">👋 Hi, I'm Oleg Tabachnikow, welcome to my GitHub profile!</h1>
+<h3 align="center">I am a passionate frontend developer from Israel, Tel Aviv</h3>
 
 
 
