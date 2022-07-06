@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Oleg Tabachnikow</h1>
+<h1 align="center">👋 Hi, I'm Oleg 👋</h1>
 <h3 align="center">A passionate frontend developer from Israel, Tel Aviv</h3>
 
 
