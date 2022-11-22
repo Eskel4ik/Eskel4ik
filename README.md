@@ -6,7 +6,7 @@
 ### <div align="center">I'm Oleg, a full-stack developer 👨‍💻 from Tel Aviv 🚀</div>  
   
 
-- 🔭 I’m currently working on [League of Legends DB](https://github.com/Eskel4ik/league-of-legends-db)  
+- 🔭 I’m currently working on [Robo VPN](https://github.com/Eskel4ik/vpn-frontend) 
   
 
 - 🌱 I’m currently learning TypeScript and Algorhythms  
