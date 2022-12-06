@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
+<img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" align="center" height="204" width="334" />
 </div>  
   
 
-### <div align="center">I'm Oleg, a full-stack developer 👨‍💻 from Tel Aviv 🚀</div>  
+### <div align="center">I'm Oleg, a Full-stack developer 👨‍💻 from Tel Aviv</div>  
   
 
 - 🔭 I’m currently working on [Robo VPN](https://github.com/Eskel4ik/vpn-frontend) 
