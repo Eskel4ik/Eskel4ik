@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Robo VPN](https://github.com/Eskel4ik/vpn-frontend) 
   
 
-- 🌱 I’m currently learning TypeScript and Algorhythms  
+- 🌱 I’m currently learning TypeScript  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
